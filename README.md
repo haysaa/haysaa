@@ -7,7 +7,7 @@
 </p>
 
 ## About me
-- 🎓 Software Engineering student at **İ**
+- 🎓 Software Engineering student at **İstanbul Commerce University**
 - 🧠 Interested in **backend systems, APIs, and AI-powered applications**
 - 🔭 Currently working on: **Project/Focus (1 line)**
 - 🌱 Learning: **Tech/Concepts**
