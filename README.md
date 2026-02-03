@@ -9,7 +9,6 @@
 ## About me
 - 🎓 Software Engineering student at **İstanbul Commerce University**
 - 🧠 Interested in **backend systems, APIs, and AI-powered applications**
-- 🔭 Currently working on: **Project/Focus (1 line)**
-- 🌱 Learning: **Tech/Concepts**
+- 🔭 Currently working on: **n AI-powered app that turns messy inputs into structured insights (LLM + data pipeline + evaluation reports**
 - 🤝 Open to: **internships, research, collaborations**
 
